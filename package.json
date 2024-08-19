@@ -1,0 +1,23 @@
+{
+  "name": "webpack-source-examples",
+  "version": "1.0.0",
+  "description": "webpack-source-examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardfist/webpack-source-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardfist/webpack-source-examples/issues"
+  },
+  "homepage": "https://github.com/hardfist/webpack-source-examples#readme",
+  "dependencies": {
+    "webpack-sources": "^3.2.3"
+  }
+}

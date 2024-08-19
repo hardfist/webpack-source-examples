@@ -1,0 +1,1 @@
+{"version":3,"file":"x","mappings":"AAAA,kB;ACCA;AACA;AACA;AACA","sources":["banner.js","original"],"sourcesContent":["// webpack-sources","\n            let a = 1;\n            let b = 2;\n            console.log(a,b);\n      "],"names":[]}
